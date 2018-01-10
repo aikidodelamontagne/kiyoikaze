@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:D7FB5009-FCAB-462F-8DDC-5D6E5A9628F2</id>
+ <title>Page list Atom feed</title>
+ <updated>2016-01-30T11:57:14-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:7084218A-1C41-4CD2-8BBE-3BADCE7565B5</id>
+  <title>fr_boutique</title>
+  <title xmlns="urn:iweb:">fr_boutique</title>
+  <in-navbar xmlns="urn:iweb:">7084218A-1C41-4CD2-8BBE-3BADCE7565B5</in-navbar>
+  <link rel="alternate" href="fr_boutique.html"/>
+  <updated>2016-01-30T11:57:14.001-05:00</updated>
+  <content>fr_boutique</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0D91BC2D-10CA-4859-BFB1-C2A15CDE40ED</id>
+  <title>fr_faq</title>
+  <title xmlns="urn:iweb:">fr_faq</title>
+  <in-navbar xmlns="urn:iweb:">0D91BC2D-10CA-4859-BFB1-C2A15CDE40ED</in-navbar>
+  <link rel="alternate" href="fr_faq.html"/>
+  <updated>2016-01-30T11:57:14.002-05:00</updated>
+  <content>fr_faq</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:18E86DCA-9818-488A-97D5-D645E2E525BD</id>
+  <title>en_store</title>
+  <title xmlns="urn:iweb:">en_store</title>
+  <in-navbar xmlns="urn:iweb:">18E86DCA-9818-488A-97D5-D645E2E525BD</in-navbar>
+  <link rel="alternate" href="en_store.html"/>
+  <updated>2016-01-30T11:57:14.003-05:00</updated>
+  <content>en_store</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:98348D6B-9C2C-4B55-AA31-A922738D9D56</id>
+  <title>es_negocio</title>
+  <title xmlns="urn:iweb:">es_negocio</title>
+  <in-navbar xmlns="urn:iweb:">98348D6B-9C2C-4B55-AA31-A922738D9D56</in-navbar>
+  <link rel="alternate" href="es_negocio.html"/>
+  <updated>2016-01-30T11:57:14.004-05:00</updated>
+  <content>es_negocio</content>
+ </entry>
+</feed>

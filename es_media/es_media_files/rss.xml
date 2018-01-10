@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>es_media</title>
+    <link>http://www.kiyoikaze.org/Kiyoikaze/es_media/es_media.html</link>
+    <description>es_media</description>
+    <item>
+      <title>Seminario de Iaido Annual 2014</title>
+      <link>http://www.kiyoikaze.org/Kiyoikaze/es_media/Pages/Seminario_de_Iaido_Annual_2014.html</link>
+      <guid isPermaLink="false">f5ffb694-9d21-42f6-a7ec-f40e68b94490</guid>
+    </item>
+    <item>
+      <title>Seminario de Iaido Annual 2012</title>
+      <link>http://www.kiyoikaze.org/Kiyoikaze/es_media/Pages/Seminario_de_Iaido_Annual_2012.html</link>
+      <guid isPermaLink="false">70492c13-9969-4df3-aff0-216fe45084a2</guid>
+    </item>
+  </channel>
+</rss>

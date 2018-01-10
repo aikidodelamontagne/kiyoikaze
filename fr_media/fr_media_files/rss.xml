@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>fr_media</title>
+    <link>http://www.kiyoikaze.org/Kiyoikaze/fr_media/fr_media.html</link>
+    <description>fr_media</description>
+    <item>
+      <title>Stage de Iaido Annuel 2014</title>
+      <link>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014.html</link>
+      <guid isPermaLink="false">b94c93fe-d6d5-4e4a-9bf8-b248845f005e</guid>
+    </item>
+    <item>
+      <title>Stage de Iaido Annuel 2012</title>
+      <link>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2012.html</link>
+      <guid isPermaLink="false">e7665c97-4bd7-4be6-af4c-d6bc7dc59ba6</guid>
+    </item>
+  </channel>
+</rss>

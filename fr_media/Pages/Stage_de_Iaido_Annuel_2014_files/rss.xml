@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Stage de Iaido Annuel 2014</title>
+    <link>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014.html</link>
+    <description>Stage de Iaido Annuel 2014</description>
+    <item>
+      <link>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014.html#0</link>
+      <guid isPermaLink="false">f4a18871-4a30-4ad6-aff1-28a6d3664aed</guid>
+      <enclosure url="http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014_files/Media/Iaido%202014%20108/Iaido%202014%20108.jpg" length="84023" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014_files/Media/Iaido%202014%20108/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014_files/Media/Iaido%202014%20108/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014_files/Media/Iaido%202014%20108/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014.html#1</link>
+      <guid isPermaLink="false">3f4568f6-9605-4738-8a1a-ebee254c222b</guid>
+      <enclosure url="http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014_files/Media/Iaido%202014%20109/Iaido%202014%20109.jpg" length="87942" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014_files/Media/Iaido%202014%20109/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014_files/Media/Iaido%202014%20109/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.kiyoikaze.org/Kiyoikaze/fr_media/Pages/Stage_de_Iaido_Annuel_2014_files/Media/Iaido%202014%20109/mip.jpg</iweb:mip-thumbnail>
+    </item>
+  </channel>
+</rss>
